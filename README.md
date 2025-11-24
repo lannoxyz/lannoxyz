@@ -8,4 +8,4 @@ visitor!
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.yumetsuki.moe/api?username=lannoxyz&show_icons=true&count_private=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.yumetsuki.moe/api?username=lannoxyz&show_icons=true&count_private=true&theme=white)
