@@ -1,15 +1,22 @@
-![](header.svg)
+<p align="center">
+  <img src="header.svg" />
+</p>
 
-<div align="center"> 💫 You Are My... </div>
+<div align="center">
+<h3>💫 Hi! I'm <span style="color:#FF00CC;">*Lanno*</span> 💫 You are my...</h3>
 
-[<div align="center"> ![Visitor Count](http://moe-counter.yumetsuki.moe/@lannoxyz?name=Lanno&theme=asoul&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto) </div>
-](http://moe-counter.yumetsuki.moe/@lannoxyz?name=lannoxyz&theme=asoul&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+<p>
+<img src="http://moe-counter.yumetsuki.moe/@lannoxyz?name=Lanno&theme=asoul&padding=7&offset=10&align=center&scale=1.2&pixelated=1&darkmode=auto" />
+</p>
 
-<div align="center"> Visitor! ❤️</div>
+<h3>Visitor!</h3>
+</div>
 
----
+<br>
+<br>
 
-<div align="center"> 📊 GitHub Stats 📊 </div>
-
-![GitHub Stats](https://github-readme-stats.yumetsuki.moe/api?username=lannoxyz&show_icons=true&count_private=true&theme=white)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lannoxyz&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lannoxyz&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannoxyz&theme=blueberry&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lannoxyz&theme=blueberry&hide_border=true" />
+</p>
