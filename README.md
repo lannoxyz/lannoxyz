@@ -1,4 +1,4 @@
-### 🌸 Visitor Count
+### 💫 Visitor Count
 
 You are my
 ![Visitor Count](http://moe-counter.yumetsuki.moe/@Lanno?name=Lanno&theme=asoul&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
