@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="header.svg" />
-</p>
-
 <div align="center">
 <h3>💫 Hi! I'm <span style="font-weight:bold">Lanno</span> 💫 You are my...</h3>
 
